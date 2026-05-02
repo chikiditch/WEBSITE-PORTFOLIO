@@ -230,7 +230,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="img/UniCode.png" 
+                      src="/img/UniCode.png" 
                       alt="UniCode Thumbnail"   
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -256,7 +256,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="img/webdev.png" 
+                      src="/img/webdev.png" 
                       alt="Web Dev Projects Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -282,7 +282,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="img/1labeled.png" 
+                      src="/img/1labeled.png" 
                       alt="3D Design Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -306,7 +306,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="img/magazine cover.png" 
+                      src="/img/magazine cover.png" 
                       alt="Graphic Design Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
