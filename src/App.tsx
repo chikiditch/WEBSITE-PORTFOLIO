@@ -91,10 +91,10 @@ export default function App() {
                 Hello, World! 👋
               </span>
               <h1 className="text-5xl md:text-7xl font-heading font-bold text-white mb-6 tracking-tight">
-                Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-400">[Your Name]</span>
+                Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-cyan-400">[Edgar]</span>
               </h1>
               <p className="text-lg md:text-2xl text-slate-400 mb-10 max-w-2xl mx-auto leading-relaxed">
-                3rd-Year Computer Science Student | Software & Web Developer
+                Computer Science Student | Software & Web Developer
               </p>
 
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -103,12 +103,6 @@ export default function App() {
                   className="w-full sm:w-auto px-8 py-3.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg font-medium transition-all hover:-translate-y-1 hover:shadow-[0_10px_20px_-10px_rgba(79,70,229,0.5)] flex items-center justify-center gap-2"
                 >
                   View Projects <ChevronRight className="w-4 h-4" />
-                </a>
-                <a
-                  href="#"
-                  className="w-full sm:w-auto px-8 py-3.5 bg-slate-800 hover:bg-slate-700 text-white rounded-lg font-medium border border-slate-700 transition-all hover:-translate-y-1 flex items-center justify-center gap-2"
-                >
-                  Download Resume
                 </a>
               </div>
             </motion.div>
@@ -130,7 +124,7 @@ export default function App() {
               <div className="bg-slate-800/50 border border-slate-700 text-lg leading-relaxed p-6 md:p-8 rounded-2xl text-slate-300 shadow-xl">
                 {/* Placeholder text: Replace this with your actual summary */}
                 <p>
-                  I'm a passionate 3rd-year Computer Science student actively seeking an On-the-Job Training (OJT) or internship opportunity. I specialize in building efficient software solutions and responsive web applications. Throughout my academics, I have developed a solid foundation in programming logic, modern web frameworks, and application architecture. I am eager to apply my academic knowledge to real-world projects, learn from industry professionals, and contribute meaningfully to a professional tech team.
+                  I'm a passionate 3rd-year Computer Science student actively seeking progress opportunities. Throughout my academics, I have developed a solid foundation in programming logic, modern web frameworks, and application architecture. I am eager to apply my academic knowledge to real-world projects, learn from industry professionals, and contribute meaningfully to a professional tech team.
                 </p>
               </div>
             </motion.div>
@@ -179,7 +173,7 @@ export default function App() {
                 <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl hover:border-slate-700 transition-colors">
                   <h3 className="text-white font-medium mb-4 text-lg">Backend & Databases</h3>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {['Spring Boot', 'RESTful APIs'].map((skill) => (
+                    {['Spring Boot'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 bg-slate-800 outline outline-1 outline-slate-700 text-slate-300 rounded-lg text-sm font-medium">
                         {skill}
                       </span>
