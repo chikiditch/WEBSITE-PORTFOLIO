@@ -25,7 +25,7 @@ export default function App() {
             href="#"
             className="text-white font-heading font-bold text-xl tracking-tight"
           >
-            [Chikidish]<span className="text-indigo-500">.</span>
+            [Edgar Cabeza]<span className="text-indigo-500">.</span>
           </a>
           <nav className="hidden md:flex gap-8 text-sm font-medium">
             <a
@@ -351,14 +351,14 @@ export default function App() {
 
               <div className="flex flex-wrap justify-center gap-6">
                 <a
-                  href="mailto:[Your_Email@example.com]"
+                  href="mailto:[chikid.work@gmail.com]"
                   className="flex items-center gap-3 px-6 py-4 bg-slate-900 border border-slate-700 rounded-xl hover:border-indigo-500 text-white transition-all hover:-translate-y-1 hover:shadow-lg hover:shadow-indigo-500/10"
                 >
                   <Mail className="w-5 h-5 text-indigo-400" />
-                  <span>[YourEmail@email.com]</span>
+                  <span>[chikid.work@gmail.com]</span>
                 </a>
                 <a
-                  href="[Your_LinkedIn_Link]"
+                  href="https://www.linkedin.com/in/edgar-cabeza-521bb9404/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 px-6 py-4 bg-slate-900 border border-slate-700 rounded-xl hover:border-indigo-500 text-white transition-all hover:-translate-y-1 hover:shadow-lg hover:shadow-indigo-500/10"
@@ -367,7 +367,7 @@ export default function App() {
                   <span>LinkedIn Profile</span>
                 </a>
                 <a
-                  href="[Your_GitHub_Link]"
+                  href="https://github.com/chikiditch"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 px-6 py-4 bg-slate-900 border border-slate-700 rounded-xl hover:border-indigo-500 text-white transition-all hover:-translate-y-1 hover:shadow-lg hover:shadow-indigo-500/10"
@@ -383,7 +383,7 @@ export default function App() {
 
       <footer className="py-8 text-center text-slate-500 border-t border-slate-900/50">
         <p className="text-sm">
-          © {new Date().getFullYear()} [Your Name]. Built with React, Tailwind CSS, and Framer Motion.
+          © {new Date().getFullYear()} [Edgar Cabeza]. Built with React, Tailwind CSS, and Framer Motion.
         </p>
       </footer>
     </div>
