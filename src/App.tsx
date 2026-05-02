@@ -25,7 +25,7 @@ export default function App() {
             href="#"
             className="text-white font-heading font-bold text-xl tracking-tight"
           >
-            [Your Name]<span className="text-indigo-500">.</span>
+            [Chikidish]<span className="text-indigo-500">.</span>
           </a>
           <nav className="hidden md:flex gap-8 text-sm font-medium">
             <a
@@ -230,8 +230,8 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="https://placehold.co/600x400/1e293b/94a3b8?text=Project+1+Image" 
-                      alt="UniCode Thumbnail" 
+                      src="img/UniCode.png" 
+                      alt="UniCode Thumbnail"   
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
                   </div>
@@ -246,7 +246,7 @@ export default function App() {
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">Python</span>
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">Gemini AI</span>
                     </div>
-                    <a href="#" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
+                    <a href="https://github.com/alex-daniel-ue/unicode" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
                       View Project / Code <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -256,7 +256,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="https://placehold.co/600x400/1e293b/94a3b8?text=Project+2+Image" 
+                      src="img/webdev.png" 
                       alt="Web Dev Projects Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -272,7 +272,7 @@ export default function App() {
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">CSS</span>
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">JavaScript</span>
                     </div>
-                    <a href="#" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
+                    <a href="https://chikiditch.github.io/Web-Development-Journey/" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
                       View Project / Code <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -282,7 +282,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="https://placehold.co/600x400/1e293b/94a3b8?text=Project+3+Image" 
+                      src="img/1labeled.png" 
                       alt="3D Design Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -296,7 +296,7 @@ export default function App() {
                     <div className="flex flex-wrap gap-2 mb-6">
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">Blender</span>
                     </div>
-                    <a href="#" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
+                    <a href="https://drive.google.com/drive/folders/1xDdJj7LuQVFZd9YuEqCBz-H88kj9VMXy?usp=sharing" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
                       View Project / Code <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
@@ -306,7 +306,7 @@ export default function App() {
                 <div className="group bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden hover:-translate-y-2 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-300 flex flex-col">
                   <div className="relative aspect-video overflow-hidden">
                     <img 
-                      src="https://placehold.co/600x400/1e293b/94a3b8?text=Project+4+Image" 
+                      src="img/magazine cover.png" 
                       alt="Graphic Design Thumbnail" 
                       className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500" 
                     />
@@ -320,7 +320,7 @@ export default function App() {
                     <div className="flex flex-wrap gap-2 mb-6">
                       <span className="text-xs bg-slate-900 text-slate-300 px-2.5 py-1 rounded-md">Adobe Photoshop</span>
                     </div>
-                    <a href="#" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
+                    <a href="https://drive.google.com/drive/folders/1tRaIUpyxqeQ38FZpVoX0p39GmCw0RdwO?usp=sharing" className="inline-flex items-center gap-2 text-sm font-medium text-white bg-slate-700 hover:bg-indigo-600 px-4 py-2.5 rounded-lg w-fit transition-colors">
                       View Project / Code <ExternalLink className="w-4 h-4" />
                     </a>
                   </div>
