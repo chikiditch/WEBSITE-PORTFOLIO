@@ -351,11 +351,11 @@ export default function App() {
 
               <div className="flex flex-wrap justify-center gap-6">
                 <a
-                  href="mailto:[chikid.work@gmail.com]"
+                  href="mailto:[e.jr.cabeza@gmail.com]"
                   className="flex items-center gap-3 px-6 py-4 bg-slate-900 border border-slate-700 rounded-xl hover:border-indigo-500 text-white transition-all hover:-translate-y-1 hover:shadow-lg hover:shadow-indigo-500/10"
                 >
                   <Mail className="w-5 h-5 text-indigo-400" />
-                  <span>[chikid.work@gmail.com]</span>
+                  <span>[e.jr.cabeza@gmail.com]</span>
                 </a>
                 <a
                   href="https://www.linkedin.com/in/edgar-cabeza-521bb9404/"
