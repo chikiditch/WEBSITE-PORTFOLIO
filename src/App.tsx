@@ -161,7 +161,7 @@ export default function App() {
                 <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl hover:border-slate-700 transition-colors">
                   <h3 className="text-white font-medium mb-4 text-lg">Frontend</h3>
                   <div className="flex flex-wrap gap-2">
-                    {['CSS', 'Bootstrap', 'Vite', 'React'].map((skill) => (
+                    {['CSS', 'Bootstrap', 'Tailwind CSS', 'React'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 bg-indigo-950/30 text-indigo-300 outline outline-1 outline-indigo-500/30 rounded-lg text-sm font-medium">
                         {skill}
                       </span>
@@ -180,7 +180,7 @@ export default function App() {
                     ))}
                   </div>
                   <div className="flex flex-wrap gap-2">
-                    {['MySQL', 'PostgreSQL'].map((skill) => (
+                    {['MySQL'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 bg-slate-800 outline outline-1 outline-slate-700 text-slate-300 rounded-lg text-sm font-medium">
                         {skill}
                       </span>
@@ -192,14 +192,14 @@ export default function App() {
                 <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl hover:border-slate-700 transition-colors">
                   <h3 className="text-white font-medium mb-4 text-lg">Tools & Other</h3>
                   <div className="flex flex-wrap gap-2 mb-4">
-                    {['Figma', 'Git', 'GitHub', 'Godot', 'VS Code', 'Trello'].map((skill) => (
+                    {['Figma', 'Git', 'GitHub', 'Godot', 'VS Code', 'Trello', 'Vercel'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 bg-slate-800 outline outline-1 outline-slate-700 text-slate-300 rounded-lg text-sm font-medium">
                         {skill}
                       </span>
                     ))}
                   </div>
                   <div className="flex flex-wrap gap-2">
-                    {['Adobe Photoshop', 'Blender'].map((skill) => (
+                    {['Adobe Photoshop', 'Blender', 'Canva'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 bg-slate-800 outline outline-1 outline-slate-700 text-slate-300 rounded-lg text-sm font-medium">
                         {skill}
                       </span>
